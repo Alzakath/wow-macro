@@ -1,0 +1,2 @@
+#showtooltip
+/script ResetInstances()

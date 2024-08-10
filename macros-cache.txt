@@ -1,0 +1,66 @@
+VER 3 000000000000002E " " "INV_MISC_QUESTIONMARK"
+#showtooltip item:212337
+#macro version 1
+/run if not InCombatLockdown() then RHT.b:SetAttribute("item","Stone of the Hearth") end
+/click RHTB LeftButton 1
+END
+VER 3 000000000000002B "AutoPotion" "INV_Misc_QuestionMark"
+#showtooltip 
+/castsequence reset=combat Crimson Vial
+END
+VER 3 000000000000003C "Bullions" "INV_Misc_QuestionMark"
+#showtooltip Antique Bronze Bullion
+/run a=C_CurrencyInfo.GetCurrencyInfo(3010) print("You have earned " .. a.totalEarned .. " of " .. a.maxQuantity .. " possible bullion drops")
+END
+VER 3 0000000000000030 "Fast invite" "INV_Misc_QuestionMark"
+/target [@mouseover]
+/invite
+/targetlasttarget
+END
+VER 3 0000000000000040 "Mark of the Wild" "136078"
+#showtooltip
+/cast [@player] Mark of the Wild
+END
+VER 3 0000000000000021 "Photo" "132160"
+/script UIParent:Hide(); SetUIVisibility(false); Screenshot(); SetUIVisibility(true); UIParent:Show()
+END
+VER 3 000000000000002D "Ping" "INV_Misc_QuestionMark"
+/ping [@mouseover,harm] Warning; [@mouseover,help] Assist; [@mouseover,exists] Ping
+/stopmacro [@mouseover,exists]
+/ping
+END
+VER 3 000000000000003E "Regrowth Guardia" "136085"
+#showtooltip
+/castsequence [@player] reset=5 Regrowth, Rejuvenation, Heart of the Wild, !bear form
+/cast [combat] Barkskin
+/cast [combat] Renewal
+/cast [combat] Survival Instincts
+END
+VER 3 000000000000003D "Rejuvenation" "136081"
+#showtooltip
+/castsequence [@playertarget] reset=3 Rejuvenation, Regrowth, !moonkin form
+END
+VER 3 0000000000000033 "Reset instances" "5545560"
+/script ResetInstances()
+END
+VER 3 0000000000000025 "trinket 1" "INV_Misc_QuestionMark"
+#showtooltip
+/stopcasting
+/use 13
+END
+VER 3 0000000000000023 "trinket 2" "134400"
+#showtooltip
+/stopcasting
+/use 14
+END
+VER 3 000000000000002A "TSMMacro" "Achievement_Faction_GoldenLotus"
+/click TSMAuctioningBtn
+END
+VER 3 000000000000002F "Whelp" "INV_Misc_QuestionMark"
+/tar Lost whelp
+/ping [@target] Attack
+END
+VER 3 000000000000003F "Wild Growth" "236153"
+#showtooltip
+/castsequence [@player] reset=10 Wild Growth, Renewal, !moonkin form
+END

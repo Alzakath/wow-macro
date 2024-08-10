@@ -1,0 +1,2 @@
+#showtooltip [known:Remove Corruption] Remove Corruption; [known:Hibernate] Hibernate
+/cast [known:Remove Corruption,target=mouseover,exists,help] Remove Corruption; [known:Hibernate,target=mouseover,exists,harm] Hibernate
