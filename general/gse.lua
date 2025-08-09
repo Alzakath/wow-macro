@@ -1,0 +1,4 @@
+/cast [noform:2] Cat Form
+/targetenemy [noharm][dead]
+/startattack
+/cast [form:2, nochanneling] Single-Button Assistant
