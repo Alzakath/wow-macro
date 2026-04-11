@@ -1,0 +1,26 @@
+{
+    [1] = {
+        ["macrotext"] = "/use [nomod,nochanneling]  13",
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = "/cast [nomod,nochanneling] Reaper's Mark",
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = "/cast [nomod,nochanneling] Empower Rune Weapon",
+        ["type"] = "macro"
+    },
+    [4] = {
+        ["macrotext"] = "/cast [nomod,nochanneling] Breath of Sindragosa",
+        ["type"] = "macro"
+    },
+    [5] = {
+        ["macrotext"] = [[
+/cast [nomod,nochanneling] Pillar of Frost
+/cast [nomod,nochanneling] Raise Dead
+]],
+        ["type"] = "macro"
+    }
+}
+

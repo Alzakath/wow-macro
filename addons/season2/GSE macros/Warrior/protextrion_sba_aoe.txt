@@ -1,0 +1,34 @@
+{
+    [1] = {
+        ["macrotext"] = "/cast Ancestral Call",
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nochanneling] Single-Button Assistant
+]],
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nochanneling] Ignore Pain
+]],
+        ["type"] = "macro"
+    },
+    [4] = {
+        ["type"] = "click"
+    },
+    [5] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nochanneling] Single-Button Assistant
+]],
+        ["type"] = "macro"
+    },
+    [6] = {
+        ["type"] = "click"
+    }
+}
+

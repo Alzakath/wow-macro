@@ -1,0 +1,19 @@
+
+
+/way #2472 47.89 62.53 17.1 Mailroom Distribution - Mail Overflow
+/way #2472 46.54 64.32 17.2 Mailroom Distribution
+/way #2472 47.40 69.49 17.3 Mailroom Distribution
+/way #2472 48.91 67.09 17.4 Mailroom Distribution
+/way #2472 48.44 65.52 17.5 Mailroom Distribution
+/way #2472 47.97 64.37 17.6 Mailroom Distribution Treasure
+
+/way #2371 77.80 28.10 19 Skeletal Tail Bones
+/way #2371 60.54 42.13 18 Wastelander Stash
+/way #2371 65.43 63.56 27 Tumbled Package
+
+
+/way #2248 58.6 36.6 Warphorn
+/way #2248 58.6 60.6 Springbubble
+/way #2248 62.8 68.6 Sandres the Relicbearer
+/way #2248 42.2 76.6 Bloodmaw
+/way #2248 36.8 75.6 Rustul Titancap

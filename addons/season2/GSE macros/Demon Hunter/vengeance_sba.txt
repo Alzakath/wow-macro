@@ -1,0 +1,10 @@
+{
+    [1] = {
+        ["macrotext"] = [[
+/cast [nomod,nochanneling] Single-Button Assistant
+/cast [nomod,nochanneling] Demon Spikes
+]],
+        ["type"] = "macro"
+    }
+}
+

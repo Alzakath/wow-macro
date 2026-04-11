@@ -1,0 +1,67 @@
+{
+    [1] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [4] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [5] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [6] = {
+        ["macrotext"] = "/cast [nochanneling] Spinning Crane Kick",
+        ["type"] = "macro"
+    },
+    [7] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [8] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [9] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [10] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [11] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [12] = {
+        ["macrotext"] = "/cast [nochanneling] Spinning Crane Kick",
+        ["type"] = "macro"
+    }
+}
+

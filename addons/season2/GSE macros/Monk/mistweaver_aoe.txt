@@ -1,0 +1,275 @@
+{
+    [1] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [4] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [5] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [6] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [7] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [8] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [9] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [10] = {
+        ["macrotext"] = "/cast [nochanneling] Touch of Death",
+        ["type"] = "macro"
+    },
+    [11] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [12] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [13] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [14] = {
+        ["macrotext"] = "/cast [nochanneling] Touch of Death",
+        ["type"] = "macro"
+    },
+    [15] = {
+        ["macrotext"] = "/cast [nochanneling] Rising Sun Kick",
+        ["type"] = "macro"
+    },
+    [16] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [17] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [18] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [19] = {
+        ["macrotext"] = "/cast [nochanneling] Touch of Death",
+        ["type"] = "macro"
+    },
+    [20] = {
+        ["macrotext"] = "/cast [nochanneling] Rising Sun Kick",
+        ["type"] = "macro"
+    },
+    [21] = {
+        ["macrotext"] = "/castsequence [nochanneling] Tiger Palm, Blackout Kick, Tiger Palm",
+        ["type"] = "macro"
+    },
+    [22] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [23] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [24] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [25] = {
+        ["macrotext"] = "/cast [nochanneling] Touch of Death",
+        ["type"] = "macro"
+    },
+    [26] = {
+        ["macrotext"] = "/cast [nochanneling] Rising Sun Kick",
+        ["type"] = "macro"
+    },
+    [27] = {
+        ["macrotext"] = "/castsequence [nochanneling] Tiger Palm, Blackout Kick, Tiger Palm",
+        ["type"] = "macro"
+    },
+    [28] = {
+        ["macrotext"] = "/cast [nochanneling] Rising Sun Kick",
+        ["type"] = "macro"
+    },
+    [29] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [30] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [31] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [32] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [33] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [34] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [35] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [36] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [37] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [38] = {
+        ["macrotext"] = "/cast [nochanneling] Touch of Death",
+        ["type"] = "macro"
+    },
+    [39] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [40] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [41] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [42] = {
+        ["macrotext"] = "/cast [nochanneling] Touch of Death",
+        ["type"] = "macro"
+    },
+    [43] = {
+        ["macrotext"] = "/cast [nochanneling] Rising Sun Kick",
+        ["type"] = "macro"
+    },
+    [44] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [45] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [46] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [47] = {
+        ["macrotext"] = "/cast [nochanneling] Touch of Death",
+        ["type"] = "macro"
+    },
+    [48] = {
+        ["macrotext"] = "/cast [nochanneling] Rising Sun Kick",
+        ["type"] = "macro"
+    },
+    [49] = {
+        ["macrotext"] = "/castsequence [nochanneling] Tiger Palm, Blackout Kick, Tiger Palm",
+        ["type"] = "macro"
+    },
+    [50] = {
+        ["macrotext"] = "/cast [nochanneling,noknown:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [51] = {
+        ["macrotext"] = [[
+/targetparty
+/cast [exists,help,nochanneling] Renewing Mist; [@player,nochanneling] Renewing Mist
+/targetlasttarget
+]],
+        ["type"] = "macro"
+    },
+    [52] = {
+        ["macrotext"] = "/cast [known:Jadefire Stomp, nochanneling] Jadefire Stomp",
+        ["type"] = "macro"
+    },
+    [53] = {
+        ["macrotext"] = "/cast [nochanneling] Touch of Death",
+        ["type"] = "macro"
+    },
+    [54] = {
+        ["macrotext"] = "/cast [nochanneling] Rising Sun Kick",
+        ["type"] = "macro"
+    },
+    [55] = {
+        ["macrotext"] = "/castsequence [nochanneling] Tiger Palm, Blackout Kick, Tiger Palm",
+        ["type"] = "macro"
+    },
+    [56] = {
+        ["macrotext"] = "/cast [nochanneling] Rising Sun Kick",
+        ["type"] = "macro"
+    }
+}
+

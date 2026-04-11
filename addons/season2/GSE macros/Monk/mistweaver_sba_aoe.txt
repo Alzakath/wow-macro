@@ -1,0 +1,11 @@
+{
+    [1] = {
+        ["macrotext"] = "/cast [nochanneling,known:467316] Thunder Focus Tea",
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = "/cast [nochanneling] Crackling Jade Lightning",
+        ["type"] = "macro"
+    }
+}
+

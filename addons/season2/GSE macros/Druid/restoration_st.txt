@@ -1,0 +1,21 @@
+{
+    [1] = {
+        ["macrotext"] = [[
+/cast [nomod,noform:4] Moonkin Form
+/targetenemy [noharm,nodead][dead][noexists]
+/cast [nomod,known:Berserking] Berserking
+/cast [nomod,nochanneling] Single-Button Assistant
+]],
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = [[
+/cast [nomod,noform:4] Moonkin Form
+/targetenemy [noharm,nodead][dead][noexists]
+/cast [nomod,known:Berserking] Berserking
+/cast [nomod,nochanneling] Single-Button Assistant
+]],
+        ["type"] = "macro"
+    }
+}
+

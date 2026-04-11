@@ -1,0 +1,20 @@
+{
+    [1] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/startattack [harm,exists,nodead]
+/petattack [harm,exists,nodead]
+/cast Blood Fury
+/use 13
+]],
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Single-Button Assistant
+]],
+        ["type"] = "macro"
+    }
+}
+

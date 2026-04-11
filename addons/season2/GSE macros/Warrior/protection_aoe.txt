@@ -1,0 +1,247 @@
+{
+    [1] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/startattack
+/castsequence [combat] Demoralizing Shout
+/cast Shield Slam
+]]
+    },
+    [2] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast Shield Slam
+]]
+    },
+    [3] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [4] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [combat] Shield Slam, Thunderous Roar
+]]
+    },
+    [5] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/castsequence [combat] Shield Block, Shield Charge
+/cast Shield Slam
+]]
+    },
+    [6] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [7] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/castsequence [combat] Thunder Clap, Ignore Pain
+/cast Shield Slam
+]]
+    },
+    [8] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [combat] Shield Slam, Victory Rush
+]]
+    },
+    [9] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [10] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/castsequence [combat] Ignore Pain, Revenge
+/cast [combat] Thunder Clap
+/cast Shield Slam
+]]
+    },
+    [11] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [combat] Thunder Clap, Ignore Pain
+/cast [combat] Shield Slam
+]]
+    },
+    [12] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [13] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [14] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/startattack
+/castsequence [combat] Demoralizing Shout
+/cast Shield Slam
+]]
+    },
+    [15] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [16] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast Shield Slam
+]]
+    },
+    [17] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [18] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [19] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [combat] Shield Slam, Thunderous Roar
+]]
+    },
+    [20] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/castsequence [combat] Shield Block, Shield Charge
+/cast Shield Slam
+]]
+    },
+    [21] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [22] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [23] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/castsequence [combat] Thunder Clap, Ignore Pain
+/cast Shield Slam
+]]
+    },
+    [24] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [25] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [combat] Shield Slam, Victory Rush
+]]
+    },
+    [26] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [27] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Thunder Clap
+]],
+        ["type"] = "macro"
+    },
+    [28] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/castsequence [combat] Ignore Pain, Revenge
+/cast [combat] Thunder Clap
+/cast Shield Slam
+]]
+    },
+    [29] = {
+        ["target"] = " ",
+        ["type"] = "macro",
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [combat] Thunder Clap, Ignore Pain
+/cast [combat] Shield Slam
+]]
+    }
+}
+

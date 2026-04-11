@@ -1,0 +1,10 @@
+{
+    [1] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nochanneling] Single-Button Assistant
+]],
+        ["type"] = "macro"
+    }
+}
+

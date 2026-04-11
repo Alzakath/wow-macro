@@ -1,0 +1,192 @@
+{
+    [1] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/startattack [harm,exists,nodead]
+]],
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Immolation Aura
+]],
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Immolation Aura
+]],
+        ["type"] = "macro"
+    },
+    [4] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [nomod,combat,nochanneling,@player] Sigil of Flame
+]],
+        ["type"] = "macro"
+    },
+    [5] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Immolation Aura
+]],
+        ["type"] = "macro"
+    },
+    [6] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [nomod,combat,nochanneling,@player] Sigil of Flame
+]],
+        ["type"] = "macro"
+    },
+    [7] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Felblade
+]],
+        ["type"] = "macro"
+    },
+    [8] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Immolation Aura
+]],
+        ["type"] = "macro"
+    },
+    [9] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [nomod,combat,nochanneling,@player] Sigil of Flame
+]],
+        ["type"] = "macro"
+    },
+    [10] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Felblade
+]],
+        ["type"] = "macro"
+    },
+    [11] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Chaos Strike
+]],
+        ["type"] = "macro"
+    },
+    [12] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Immolation Aura
+]],
+        ["type"] = "macro"
+    },
+    [13] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Immolation Aura
+]],
+        ["type"] = "macro"
+    },
+    [14] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Chaos Strike
+]],
+        ["type"] = "macro"
+    },
+    [15] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [nomod,combat,nochanneling,@player] Sigil of Flame
+]],
+        ["type"] = "macro"
+    },
+    [16] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Immolation Aura
+]],
+        ["type"] = "macro"
+    },
+    [17] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Chaos Strike
+]],
+        ["type"] = "macro"
+    },
+    [18] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [nomod,combat,nochanneling,@player] Sigil of Flame
+]],
+        ["type"] = "macro"
+    },
+    [19] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Felblade
+]],
+        ["type"] = "macro"
+    },
+    [20] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Chaos Strike
+]],
+        ["type"] = "macro"
+    },
+    [21] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Chaos Strike
+]],
+        ["type"] = "macro"
+    },
+    [22] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Immolation Aura
+]],
+        ["type"] = "macro"
+    },
+    [23] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [nomod,combat,nochanneling,@player] Sigil of Flame
+]],
+        ["type"] = "macro"
+    },
+    [24] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Chaos Strike
+]],
+        ["type"] = "macro"
+    },
+    [25] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Chaos Strike
+]],
+        ["type"] = "macro"
+    },
+    [26] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Felblade
+]],
+        ["type"] = "macro"
+    },
+    [27] = {
+        ["macrotext"] = [[
+/targetenemy [noexists][dead]
+/cast [harm,nomod,combat,nochanneling] Chaos Strike
+]],
+        ["type"] = "macro"
+    }
+}
+

@@ -1,0 +1,80 @@
+{
+    [1] = {
+        ["macrotext"] = [[
+/cast [noform:2] Cat Form
+/targetenemy [noharm][dead]
+/startattack
+/cast [form:2, nochanneling] Nature's Vigil
+/castsequence [form:2, nochanneling] Rake, Swipe, Shred, Rip
+]],
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = [[
+/cast [noform:2] Cat Form
+/targetenemy [noharm][dead]
+/startattack
+/cast [form:2, nochanneling] Feral Frenzy
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [form:2, nochanneling] Rake, Shred
+]],
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = [[
+/cast [noform:2] Cat Form
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [form:2, nochanneling] Rake, Shred, Ferocious Bite
+]],
+        ["type"] = "macro"
+    },
+    [4] = {
+        ["macrotext"] = [[
+/cast [noform:2] Cat Form
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [form:2, nochanneling] Rake, Shred, Rip
+]],
+        ["type"] = "macro"
+    },
+    [5] = {
+        ["macrotext"] = [[
+/cast [noform:2] Cat Form
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [form:2, nochanneling] Rake, Shred, Ferocious Bite
+]],
+        ["type"] = "macro"
+    },
+    [6] = {
+        ["macrotext"] = [[
+/cast [noform:2] Cat Form
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [form:2, nochanneling] Rake, Shred, Rip
+]],
+        ["type"] = "macro"
+    },
+    [7] = {
+        ["macrotext"] = [[
+/cast [noform:2] Cat Form
+/targetenemy [noharm][dead]
+/startattack
+/cast [form:2, nochanneling] Tiger's Fury
+/castsequence [form:2, nochanneling] Rake, Shred, Primal Wrath
+]],
+        ["type"] = "macro"
+    },
+    [8] = {
+        ["macrotext"] = [[
+/cast [noform:2] Cat Form
+/targetenemy [noharm][dead]
+/startattack
+/castsequence [form:2, nochanneling] Rake, Shred, Primal Wrath
+]],
+        ["type"] = "macro"
+    }
+}
+

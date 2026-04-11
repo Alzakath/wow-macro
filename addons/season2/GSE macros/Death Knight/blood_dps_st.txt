@@ -1,0 +1,723 @@
+{
+    [1] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [4] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [5] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [6] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [7] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [8] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [9] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [10] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [11] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [12] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [13] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [14] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [15] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [16] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [17] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [18] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [19] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [20] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [21] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Death Strike
+]],
+        ["type"] = "macro"
+    },
+    [22] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [23] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [24] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [25] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [26] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [27] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Death Strike
+]],
+        ["type"] = "macro"
+    },
+    [28] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [29] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [30] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [31] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [32] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [33] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [34] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Death Strike
+]],
+        ["type"] = "macro"
+    },
+    [35] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [36] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Tombstone
+]],
+        ["type"] = "macro"
+    },
+    [37] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [38] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [39] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [40] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [41] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [42] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Death Strike
+]],
+        ["type"] = "macro"
+    },
+    [43] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [44] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Tombstone
+]],
+        ["type"] = "macro"
+    },
+    [45] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Marrowrend
+]],
+        ["type"] = "macro"
+    },
+    [46] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [47] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [48] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [49] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [50] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [51] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [52] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [53] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [54] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [55] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [56] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [57] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [58] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [59] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [60] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [61] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [62] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [63] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [64] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [65] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [66] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Death Strike
+]],
+        ["type"] = "macro"
+    },
+    [67] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [68] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [69] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [70] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [71] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [72] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Death Strike
+]],
+        ["type"] = "macro"
+    },
+    [73] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [74] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [75] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [76] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [77] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [78] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [79] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Death Strike
+]],
+        ["type"] = "macro"
+    },
+    [80] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [81] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Tombstone
+]],
+        ["type"] = "macro"
+    },
+    [82] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Reaper's Mark
+]],
+        ["type"] = "macro"
+    },
+    [83] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Dancing Rune Weapon
+]],
+        ["type"] = "macro"
+    },
+    [84] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Blood Boil
+]],
+        ["type"] = "macro"
+    },
+    [85] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Bonestorm
+]],
+        ["type"] = "macro"
+    },
+    [86] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [87] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Death Strike
+]],
+        ["type"] = "macro"
+    },
+    [88] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [89] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Tombstone
+]],
+        ["type"] = "macro"
+    },
+    [90] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nopet] Raise Dead
+/cast [nochanneling,combat] Marrowrend
+]],
+        ["type"] = "macro"
+    }
+}
+

@@ -1,0 +1,15 @@
+{
+    [1] = {
+        ["macrotext"] = "/cast [nomod,combat] Reaper's Mark",
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = "/cast [nomod,combat] Empower Rune Weapon",
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = "/castsequence [nomod,combat] Rune Strike, Frost Strike, Frost Strike, null",
+        ["type"] = "macro"
+    }
+}
+

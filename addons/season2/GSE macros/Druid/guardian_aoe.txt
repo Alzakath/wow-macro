@@ -1,0 +1,30 @@
+{
+    [1] = {
+        ["macrotext"] = [[
+/cast [noform:1] Bear Form
+/targetenemy [noharm,nodead][dead][noexists]
+/cast [known:Berserking] Berserking
+/cast [nochanneling,combat] Rage of the Sleeper
+]],
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = [[
+/cast [noform:1] Bear Form
+/targetenemy [noharm,nodead][dead][noexists]
+/cast [nochanneling] Thrash
+/cast [nomod,nochanneling] Ironfur
+]],
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = [[
+/cast [noform:1] Bear Form
+/targetenemy [noharm,nodead][dead][noexists]
+/cast [nochanneling] Mangle
+/cast [nomod,nochanneling] Ironfur
+]],
+        ["type"] = "macro"
+    }
+}
+

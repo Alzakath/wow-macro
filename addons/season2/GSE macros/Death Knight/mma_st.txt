@@ -1,0 +1,29 @@
+{
+    [1] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nomod,nochanneling] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = "/castsequence [nomod,nochanneling] Frost Strike, Empower Rune Weapon",
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = "/cast [nomod,nochanneling] Frost Strike",
+        ["type"] = "macro"
+    },
+    [4] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nomod,nochanneling] Rune Strike
+]],
+        ["type"] = "macro"
+    },
+    [5] = {
+        ["macrotext"] = "/cast [nomod,nochanneling] Single-Button Assistant",
+        ["type"] = "macro"
+    }
+}
+

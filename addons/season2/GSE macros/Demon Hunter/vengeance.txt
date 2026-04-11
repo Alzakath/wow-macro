@@ -1,0 +1,66 @@
+{
+    [1] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nomod,nochanneling] Immolation Aura
+]],
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nomod,nochanneling] Demon's Bite
+]],
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nomod,nochanneling] Chaos Strike
+]],
+        ["type"] = "macro"
+    },
+    [4] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nomod,nochanneling] Demon's Bite
+]],
+        ["type"] = "macro"
+    },
+    [5] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nomod,nochanneling] Chaos Strike
+]],
+        ["type"] = "macro"
+    },
+    [6] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nomod,nochanneling] Demon's Bite
+]],
+        ["type"] = "macro"
+    },
+    [7] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nomod,nochanneling] Chaos Strike
+]],
+        ["type"] = "macro"
+    },
+    [8] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nomod,nochanneling] Soul Carver
+]],
+        ["type"] = "macro"
+    },
+    [9] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/cast [nomod,@player,nochanneling] Sigil of Flame
+]],
+        ["type"] = "macro"
+    }
+}
+

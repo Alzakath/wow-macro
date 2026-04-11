@@ -1,0 +1,60 @@
+{
+    [1] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast Judgment
+/cast Shield of the Righteous
+]],
+        ["type"] = "macro"
+    },
+    [2] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast Crusader Strike
+/cast Shield of the Righteous
+]],
+        ["type"] = "macro"
+    },
+    [3] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast Consecration
+/cast Shield of the Righteous
+]],
+        ["type"] = "macro"
+    },
+    [4] = {
+        ["macrotext"] = "/cast [combat] Avenging Wrath",
+        ["type"] = "macro"
+    },
+    [5] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast [combat] Hammer of Wrath
+]],
+        ["type"] = "macro"
+    },
+    [6] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast Crusader Strike
+/cast Shield of the Righteous
+]],
+        ["type"] = "macro"
+    },
+    [7] = {
+        ["macrotext"] = [[
+/targetenemy [noharm][dead]
+/startattack
+/cast Judgment
+/cast Shield of the Righteous
+]],
+        ["type"] = "macro"
+    }
+}
+
